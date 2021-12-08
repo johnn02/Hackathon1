@@ -1,3 +1,3 @@
 # Hackathon1
-# potato
+# Potato
 # Oursejahtera
