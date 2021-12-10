@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OurSejahtera</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">MainPage</string>
+    <string name="second_fragment_label">Progress Tracking</string>
+    <string name="next">Submit</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Registration Form</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_page3">Page3</string>
+</resources>
