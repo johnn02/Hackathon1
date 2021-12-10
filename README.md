@@ -1,5 +1,5 @@
 # Hackathon Submission
-Our app name is OurSejahtera. We created the app on Android, using Android Studio and an android virtual device.
+Our app name is OurSejahtera. We designed the app to work on Andriod, using Android Studio and an android virtual device.
 Using a code template, we created our prototype that consists of 3 pages.
 
 The first page is a registration form where users can input their information such as name, IC and addresss.
